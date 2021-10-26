@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/dapp_frontend_template_public/static/css/main.0dba57f8.chunk.css",
+    "main.js": "/dapp_frontend_template_public/static/js/main.f926b62c.chunk.js",
+    "main.js.map": "/dapp_frontend_template_public/static/js/main.f926b62c.chunk.js.map",
+    "runtime-main.js": "/dapp_frontend_template_public/static/js/runtime-main.807b29a3.js",
+    "runtime-main.js.map": "/dapp_frontend_template_public/static/js/runtime-main.807b29a3.js.map",
+    "static/css/2.58a45539.chunk.css": "/dapp_frontend_template_public/static/css/2.58a45539.chunk.css",
+    "static/js/2.85f88cc6.chunk.js": "/dapp_frontend_template_public/static/js/2.85f88cc6.chunk.js",
+    "static/js/2.85f88cc6.chunk.js.map": "/dapp_frontend_template_public/static/js/2.85f88cc6.chunk.js.map",
+    "static/js/3.4d59f551.chunk.js": "/dapp_frontend_template_public/static/js/3.4d59f551.chunk.js",
+    "static/js/3.4d59f551.chunk.js.map": "/dapp_frontend_template_public/static/js/3.4d59f551.chunk.js.map",
+    "index.html": "/dapp_frontend_template_public/index.html",
+    "static/css/2.58a45539.chunk.css.map": "/dapp_frontend_template_public/static/css/2.58a45539.chunk.css.map",
+    "static/css/main.0dba57f8.chunk.css.map": "/dapp_frontend_template_public/static/css/main.0dba57f8.chunk.css.map",
+    "static/js/2.85f88cc6.chunk.js.LICENSE.txt": "/dapp_frontend_template_public/static/js/2.85f88cc6.chunk.js.LICENSE.txt",
+    "static/media/bnb.5878085c.svg": "/dapp_frontend_template_public/static/media/bnb.5878085c.svg",
+    "static/media/busd.0198ccc5.png": "/dapp_frontend_template_public/static/media/busd.0198ccc5.png",
+    "static/media/eth.33e7b6cd.png": "/dapp_frontend_template_public/static/media/eth.33e7b6cd.png",
+    "static/media/ht.de5e6a40.png": "/dapp_frontend_template_public/static/media/ht.de5e6a40.png",
+    "static/media/husd.4e73da3d.png": "/dapp_frontend_template_public/static/media/husd.4e73da3d.png",
+    "static/media/tt.847449ee.svg": "/dapp_frontend_template_public/static/media/tt.847449ee.svg",
+    "static/media/usdc.cd6dc638.png": "/dapp_frontend_template_public/static/media/usdc.cd6dc638.png",
+    "static/media/usdt.c9ab0f88.png": "/dapp_frontend_template_public/static/media/usdt.c9ab0f88.png",
+    "static/media/wbtc.0cb783ed.png": "/dapp_frontend_template_public/static/media/wbtc.0cb783ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.807b29a3.js",
+    "static/css/2.58a45539.chunk.css",
+    "static/js/2.85f88cc6.chunk.js",
+    "static/css/main.0dba57f8.chunk.css",
+    "static/js/main.f926b62c.chunk.js"
+  ]
+}
